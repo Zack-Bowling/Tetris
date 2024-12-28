@@ -1,6 +1,4 @@
 //Zackary Bowling
-//CS435
-//Project 2
 
 /*
 Project Description: This project uses the seven tetrimino to create a meaningful shape
